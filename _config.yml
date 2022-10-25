@@ -1,11 +1,8 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+# Move this to another page, so it reloads itself
+title: Alberto Garcia # your name (or website title) here
+logo: "/images/Profile2.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  <b>IT & Systems engineer:</b> sciences, free knowledge, and career development lover. ML research fan since 2019.
+      Ex competitive programming team leader. Taekwondo red belt and Choir Bass. Humanity supporter. <br> IT revolution ninja.
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-NS8ZPRJMYC # your Google Analytics tracking ID here

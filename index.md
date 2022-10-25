@@ -2,28 +2,38 @@
 
 ---
 
-### Category Name 1 
+### Data/ML 
 
-[Project 1 Title](/sample_page)
+[Stegian V2](/projects/stegian/stegian):
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Forecasting framework](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Anomaly detection framework](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[NPL prediction](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Weather forecasting and extrapolation](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Misc
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Parallel computing](http://example.com/)
+- [UPBotnet](https://github.com/intentodemusico/BotnetsHeterogeneas/blob/master/README.md)
+- [Algorithm analysis](http://example.com/)
+- [py2TeX](http://example.com/)
+- [Analytica](http://example.com/)
+- [Secret santa](http://example.com/)
+- [KardexApp](http://example.com/)
 
 ---
 
