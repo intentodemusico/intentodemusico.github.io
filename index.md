@@ -4,36 +4,36 @@
 
 ### Data/ML 
 
-[Stegian V2](/projects/stegian/stegian):
+[Stegian V2](/projects/stegian/):
+<img src="images/projects/stegian.png?raw=true"/>
+
+---
+[Forecasting framework](/projects/forecasting/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Forecasting framework](/pdf/sample_presentation.pdf)
+[Anomaly detection framework](/projects/anomaly/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Anomaly detection framework](http://example.com/)
+[NPL prediction](/projects/npl/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[NPL prediction](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Weather forecasting and extrapolation](http://example.com/)
+[Weather forecasting and extrapolation](/projects/weather/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Misc
+### Misc 
 
-- [Parallel computing](http://example.com/)
+- [Parallel computing](/projects/parallel/)
 - [UPBotnet](https://github.com/intentodemusico/BotnetsHeterogeneas/blob/master/README.md)
-- [Algorithm analysis](http://example.com/)
-- [py2TeX](http://example.com/)
-- [Analytica](http://example.com/)
-- [Secret santa](http://example.com/)
-- [KardexApp](http://example.com/)
+- [Algorithm analysis](/projects/algorithms/)
+- [py2TeX](/projects/py2tex/) 
+- [Secret santa](/projects/santa/)
+- [Analytica](/projects/analytica/)
+- [KardexApp](/projects/kardex/)
 
 ---
 

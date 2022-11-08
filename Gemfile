@@ -13,3 +13,7 @@ group :jekyll_plugins do
     #gem "rubocop-github", "~> 0.16"
     #gem "w3c_validators", "~> 1.3"
     end
+
+    #    GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+    # Faraday rerty
+    # Incremental
