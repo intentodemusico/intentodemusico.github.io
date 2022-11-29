@@ -8,20 +8,12 @@
 <img src="images/projects/stegian.png?raw=true"/>
 
 ---
-[Forecasting framework](/projects/forecasting/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Anomaly detection framework](/projects/anomaly/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[NPL prediction](/projects/npl/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Credit risk model bundle (Forecasting, prediction and anomaly detection)](/projects/creditRisk/)
+<img src="images/projects/creditRisk/forecasting.jpg?raw=true"/>
 
 ---
 [Weather forecasting and extrapolation](/projects/weather/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/projects/weather.jpg?raw=true"/>
 
 ---
 
