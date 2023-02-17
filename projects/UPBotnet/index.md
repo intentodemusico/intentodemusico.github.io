@@ -1,31 +1,26 @@
-## This can be your internal website page / project page
+## UPBotnet: IoT Botnet
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Resume:** Highly available botnet using arduino devices and python, allowed to test multiple attacks to controlled network environments. Developed from scratch using MQTT protocols and networking knowledge.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+## How it works?
+<!--
+##### There's three kind of node: common, master and slave
+##### Every node starts as a common node. If there's no master one, common node will be the master. 
+##### If a node starts and master is alive, but there's no slave; common node will be the slave.
+##### If a node starts after master and slave are setted up, common will still common until the nodes queue makes it slave or master.
 
-```javascript
-if (isAwesome){
-  return true
-}
+
+##### If master dies, slave will replace it, and next common node in queue will be set up as slave.
+##### If slave dies, nobody will take it's place.
+##### If common dies, nobody will take it's place.
+
+### Needed knowledge
 ```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
+- Mqtt on python or/and Arduino developer
+- Networking and telematics expert
+- Cluster architecture expert
+- Electronics expert
+- Open software licences expert
 ```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-->

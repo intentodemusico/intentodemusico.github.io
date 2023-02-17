@@ -19,13 +19,15 @@
 
 ### Misc 
 
+- [Metaculus hackathon](/projects/metaculus/)
 - [Parallel computing](/projects/parallel/)
-- [UPBotnet](https://github.com/intentodemusico/BotnetsHeterogeneas/blob/master/README.md)
+- [UPBotnet: IoT Botnet development](/projects/UPBotnet/)
 - [Algorithm analysis](/projects/algorithms/)
 - [py2TeX](/projects/py2tex/) 
 - [Secret santa](/projects/santa/)
 - [Analytica](/projects/analytica/)
 - [KardexApp](/projects/kardex/)
+
 
 ---
 

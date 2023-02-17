@@ -1,31 +1,6 @@
-## This can be your internal website page / project page
+## KardexAPP: Web extension for extracting students' completed modules
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Introduction:** The UPB University needed to obtain certain data from students' academic history as a recurrent task, this, taking around 15 minutes per student, made the faculty spend long hours on the process, having to schedule appoinments for this matter.
+Since the data should be obtained from the faculty's head computer, the application had to work as a Chrome extension, without any installation.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Results:** The time taken for this process was reduced from 15 minutes to around 10 seconds per student. Optimizing this process allowed faculty members to improve their performance since this extension was developed.
