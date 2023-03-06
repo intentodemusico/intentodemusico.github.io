@@ -1,10 +1,10 @@
-## Portfolio
+# Portfolio
 
 ---
 
 ### Data/ML 
 
-[Stegian V2](/projects/stegian/):
+[Stegian V2: Steganography detection on color images using Deep Learning](/projects/stegian/):
 <img src="images/projects/stegian.png?raw=true"/>
 
 ---
@@ -12,28 +12,30 @@
 <img src="images/projects/creditRisk/forecasting.jpg?raw=true"/>
 
 ---
+[Metaculus hackathon](/projects/metaculus/)
+<img src="images/projects/metaculus.png?raw=true"/>
+
+---
 [Weather forecasting and extrapolation](/projects/weather/)
 <img src="images/projects/weather.jpg?raw=true"/>
 
 ---
 
-### Misc 
+## Additional projects 
 
-- [Metaculus hackathon](/projects/metaculus/)
-- [Parallel computing](/projects/parallel/)
-- [UPBotnet: IoT Botnet development](/projects/UPBotnet/)
+### Web scraping and algorithms
 - [Algorithm analysis](/projects/algorithms/)
-- [py2TeX](/projects/py2tex/) 
-- [Secret santa](/projects/santa/)
-- [Analytica](/projects/analytica/)
 - [KardexApp](/projects/kardex/)
 
+### Distributed systems
+- [Parallel computing](/projects/parallel/)
+- [UPBotnet: IoT Botnet development](/projects/UPBotnet/)
+- [Analytica](/projects/analytica/)
+
+### Utilities/Small apps
+- [py2TeX](/projects/py2tex/) 
+- [Secret santa](/projects/santa/)
 
 ---
 
 
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
