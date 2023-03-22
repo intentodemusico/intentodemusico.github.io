@@ -15,6 +15,8 @@
 [Metaculus hackathon](/projects/metaculus/)
 <img src="images/projects/metaculus.png?raw=true"/>
 
+### More projects will be added soon!
+<!--
 ---
 [Weather forecasting and extrapolation](/projects/weather/)
 <img src="images/projects/weather.jpg?raw=true"/>
@@ -37,5 +39,6 @@
 - [Secret santa](/projects/santa/)
 
 ---
+-->
 
 
