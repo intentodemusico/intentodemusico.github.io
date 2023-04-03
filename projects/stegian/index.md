@@ -35,5 +35,3 @@ Finally, it is suggested to structure a dataset by tuples (cover and stego) for 
 • Develop a Deep Learning model that not only detects the presence of steganographic payload but can also extract and decode the hidden message embedded within it.
 • Utilize different Deep Learning approaches, such as adversarial neural networks and deep neural networks, to test the effectiveness of different Machine Learning methods in solving the same problem.
 • Extract the weights assigned to the neurons of the Deep Learning models in their convolutional and densely connected layers to reconstruct the patterns of steganography detection.
-
-<!--**Takeaways:** Not necesarily a larger model will make a better prediction.

@@ -4,9 +4,19 @@
 
 **Project goal:** The goal of this project was to develop a forecasting framework that will aid in reducing non-performing loans and enhance credit risk management for SMBs lending. The framework would rely on merchant's transactional data obtained from multiple partners to evaluate SMBs' performance over a specific time period. By detecting possible non-performing loans in advance, the framework allowed the company to take proactive steps to minimize the risk of default and minimize its financial impact. The ultimate objective was to improve the creditworthiness of the lending portfolio, resulting in a more stable and profitable lending business.
 
-**Solution design:** 
+**Solution design:** The solution design for the credit risk model bundle involved both open source and in-house development. The framework was developed using open source machine learning libraries, such as scikit-learn, Prophet, and Statsmodels, to build predictive models that can identify potential non-performing loans based on the historical transactional data obtained from multiple partners. The machine learning models were trained on a large dataset of historical transactional data to learn the patterns and relationships between different variables and to predict the likelihood of a loan default.
 
-**Outcomes:** Using multiple sources, a Forecasting/Anomaly Detection/Risk Reduction Framework was implemented. 
+The in-house development involved developing custom algorithms and techniques for anomaly detection and forecasting that are specific to the company's lending business. These algorithms and techniques were developed based on the company's experience in the lending industry and its understanding of the unique challenges and characteristics of its lending portfolio.
 
-**Takeaways:** The NPL was reduced in 14%, meaning a more stable and trustworthy pool of loan candidates was selected.
+Overall, the solution design was a combination of open source and in-house development to create a comprehensive credit risk model bundle that could provide accurate predictions and anomaly detection, ultimately improving the creditworthiness of the lending portfolio and minimizing the risk of default.
+
+**Outcomes:** First, the reduction of NPL by 14% indicates that the forecasting framework was successful in identifying possible non-performing loans in advance, enabling the company to take proactive steps to minimize the risk of default and minimize its financial impact. This reduction in NPL would result in higher recovery rates and reduced write-offs, resulting in improved profitability for the lending business.
+
+Additionally, the implementation of MLOps strategies means that the framework is now more efficient, scalable, and sustainable. By using open-source tools, the company was able to leverage the latest advancements in machine learning technology to improve the accuracy of the model and reduce the time and resources required for model development and deployment. The use of in-house development also allowed the company to tailor the framework to their specific needs, resulting in a more effective and customized solution.
+
+Overall, the outcomes of this project demonstrate the importance of data-driven approaches in credit risk management and the potential benefits of using advanced machine learning techniques to improve lending business performance.
+
+**Takeaways:**     Effective use of transactional data from multiple partners: The project highlights the importance of using transactional data from multiple partners to evaluate the performance of SMBs over a specific time period. By doing so, the company was able to develop a more accurate credit risk model that allowed them to identify possible non-performing loans in advance and take proactive steps to minimize the risk of default.
+
+MLOps implementation can improve model performance: The implementation of MLOps strategies, such as model versioning and monitoring, helped to ensure that the credit risk model was consistently performing at its best. This led to a reduction in NPL by 14%, indicating that MLOps implementation can play a critical role in improving the overall effectiveness of credit risk models.
 
