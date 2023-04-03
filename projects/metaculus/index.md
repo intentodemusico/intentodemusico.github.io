@@ -19,6 +19,19 @@ For the Metaculus dataset, the following graph is considered as the base for the
 Neo4j was used to model a graph of relationships between entities in the Metaculus dataset. Nodes and relationships can store data as parameters. We extracted topics from questions using the Wikifier API, generating a JSON dataset, and uploaded it to Neo4j for analysis. The number of detected topics depends on the page rank used to filter entities.
 
 **Results:**
-After uploading the dataset to Neo4j, it is possible to perform Cypher queries for analyzing the graph dynamics and structure. There are several analysis that can be perfomed with the given graph structure by using queries, such as getting analyzing the user expertise by checking his/her favorite topics, suggest subcategories by looking at the most popular topics, etc.
+The NLP-driven Topic Engine proved to be a useful tool for analyzing the Metaculus dataset. By creating a knowledge graph with key relationships between important entities, we were able to gain insights into the dynamics and structure of the data.
 
-**Takeaways:**
+After uploading the dataset to Neo4j, we were able to perform Cypher queries to analyze the graph. We could analyze user expertise by checking their favorite topics, suggest subcategories by looking at the most popular topics, and more.
+
+For example, we could query the graph to identify the most popular topics in the dataset, and use that information to suggest subcategories or improve the tagging system for questions. We could also analyze the relationships between topics, such as identifying which topics tend to co-occur in questions, and use that information to improve forecasting models.
+
+Overall, the NLP-driven Topic Engine proved to be a valuable tool for analyzing the Metaculus dataset and improving the science of forecasting. By identifying key topics and relationships between entities, we were able to gain insights that could be used to make more accurate predictions and improve forecasting models.
+
+**Takeaways:**    
+NLP-driven Topic Engines can be used to extract important topics from datasets, and create a knowledge graph with their key relationships. This can be useful in improving data analysis and decision-making.
+
+Neo4j is a powerful graph database that can be used to model complex relationships between entities in a dataset. It provides a range of tools for querying and analyzing the graph structure, which can help to gain insights into the data.
+
+By using the Wikifier API to extract topics from questions in the Metaculus dataset, the project team was able to generate a JSON dataset, which was then uploaded to Neo4j for analysis. This demonstrates how APIs can be leveraged to extract valuable data from existing datasets.
+
+The project provides several potential applications of the generated graph, such as analyzing user expertise by checking their favorite topics, or suggesting subcategories by looking at the most popular topics. This demonstrates the potential usefulness of a knowledge graph in understanding the dynamics of a dataset.
