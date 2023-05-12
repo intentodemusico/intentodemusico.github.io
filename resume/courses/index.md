@@ -3,8 +3,8 @@
 ## FORMAL EDUCATION
 
 UC San Diego: EDX <br>
-**Micro master’s in data science** <br>
-2022 - 2023 <br>
+**Micro master’s in data science (C)** <br>
+2023 <br>
 
 UPB	 <br>
 **Postgraduate diploma in Cybersecurity: Modules** <br>
@@ -15,12 +15,12 @@ UPB University	 <br>
 
 ## CERTIFICATIONS AND COURSES
 
-Prime Institute <br>
-**Project Management, Power BI and Excel for Business**<br>
-2022<br>
-
 Certiprof<br>
 **Scrum Foundation Professional Certificate (SFPC)**	<br>
+2023<br>
+
+Prime Institute <br>
+**Project Management, Power BI and Excel for Business**<br>
 2022<br>
 
 Profuturo<br>
