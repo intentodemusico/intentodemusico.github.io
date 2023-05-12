@@ -5,7 +5,7 @@
 ### Data/ML 
 
 [Stegian V2: Steganography detection on color images using Deep Learning](/projects/stegian/):
-<img src="images/projects/stegian/imgs/1.png?raw=true"/>
+<img src="projects/stegian/imgs/1.png?raw=true"/>
 Developed a Deep Learning-based algorithm for detecting LSB steganography in color digital images using Convolutional Neural Network (CNN) models with precision of 50% and an F1 score of 66%, comparable to Mamada’s model. The project delved into additional approaches contemplated in the state of the art for steganography detection, concluding that the complexity level of the models is not always proportional to obtaining successful results. F1 score, precision, training time, and estimation time were the performance metrics chosen for the evaluation of the deep learning model.
 
 Note: LSB steganography is a branch of cybersecurity that embeds hidden messages in plain images, posing a significant threat to cybersecurity as it is difficult to detect by eye inspection.
